@@ -1,16 +1,16 @@
-# Sobre este repositorio: 
+# About this repository:
 
-El principal motivo de haber hecho esto, es para demostrar cierta evidencia de mi experiencia en la universidad. Yo estudié durante más de 4 años Ingeniería Mecatrónica, y aunque es complicado explicar mi relación con ella en pocas líneas y el porque termine abandonando la carrera, me pareció importante demostrar lo que hice en mi etapa universitaria. Obviamente no es todo con lo que aprendí y trabajé, pero es algo que demuestra bien lo que hacía.    
-Aunque Mecatrónica no está directamente relacionado con Ciencia de datos, las matemáticas base son las mismas, por lo que pude desarrollar cierta intuición con los cálculos y ciertas habilidades ingenieriles a lo largo de estos años.  
-Los proyectos trabajados son diferentes, pero no diria que más sencillos. En ciertos aspectos diria que hasta mas complejos, puesto que desarrollas capacidades electrónicas, mecánicas y computacionales que te permiten percibir la importancia de las matemáticas en el campo fisico.  
+The main reason I did this is to show some evidence of my experience in university. I studied Mechatronics Engineering for over 4 years, and although it's hard to explain my relationship with it in a few lines and why I ended up leaving the course, I thought it was important to demonstrate what I did during my university phase. Obviously, it's not everything I learned and worked on, but it's something that shows well what I was doing.
+Although Mechatronics is not directly related to Data Science, the foundational math is the same, so I was able to develop some intuition with calculations and certain engineering skills over the years.
+The projects I worked on are different, but I wouldn't say they're simpler. In some respects, I would even say they're more complex, as you develop electronic, mechanical, and computational skills that allow you to perceive the importance of math in the physical field.
 
 ---
 
-Además de esto, quiero adjuntar mi carga académica, para poder visualizar las materias que llevé en mi etapa universitaria n.n:
+In addition to this, I want to attach my academic load to be able to visualize the subjects I took during my university phase n.n:
 
 ![Avance reticular](Avance_Reticular.png)
 
 ---
 
-Y si se preguntan el porque si estaba tan cerca de terminar, porque dejé la escuela, con gusto puedo explicarselos! Actualmente estoy dado de "baja temporal", pero si es que consigo empleo, quizá no vuelva. 
+And if you wonder why, being so close to finishing, I left school, I'd be happy to explain!
 
